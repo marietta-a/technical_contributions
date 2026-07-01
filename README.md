@@ -16,7 +16,7 @@
   - [Pull Requests](https://github.com/microsoft/ai-agents-for-beginners/pulls?q=is%3Apr+is%3Aclosed+author%3Amarietta-a)
 
 - **Stack Overflow (2025–present)**  
-  Reputation 1.3k, 66k+ people reached. Provided solutions for new C# 14 features (`field` keyword, extensions supporting member types). Ranked among top 20 contributors from Cameroon.  
+  Reputation 1.4k, 66k+ people reached. Provided solutions for new C# 14 features.  
   - [Profile](https://stackoverflow.com/users/7267926/marietta-akumbom?tab=profile)
 
 ### Content & Advocacy
