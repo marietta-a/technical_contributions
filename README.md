@@ -11,7 +11,7 @@
   - [Pull Requests](https://github.com/microsoft/mcp-for-beginners/pulls?q=is%3Apr+is%3Aclosed+author%3Amarietta-a)
 
 - **Microsoft AI Agents for Beginners (Jun 2026–present)**  
-  Updated deprecated code.  
+  Contributed to the curriculum with 62k+ stars by updating deprecated code and documentation to improve accessibility for learners.
   - [Issues Raised](https://github.com/microsoft/ai-agents-for-beginners/issues?q=is%3Aissue%20state%3Aclosed%20author%3Amarietta-a)  
   - [Pull Requests](https://github.com/microsoft/ai-agents-for-beginners/pulls?q=is%3Apr+is%3Aclosed+author%3Amarietta-a)
 
