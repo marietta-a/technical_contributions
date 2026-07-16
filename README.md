@@ -15,7 +15,7 @@
   - [Issues Raised](https://github.com/microsoft/ai-agents-for-beginners/issues?q=is%3Aissue%20state%3Aclosed%20author%3Amarietta-a)  
   - [Pull Requests](https://github.com/microsoft/ai-agents-for-beginners/pulls?q=is%3Apr+is%3Aclosed+author%3Amarietta-a)
 
-- **Stack Overflow (2025–present)**  
+- **Stack Overflow**  
   Reputation 1.4k, 66k+ people reached. Provided solutions for new C# 14 features.  
   - [Profile](https://stackoverflow.com/users/7267926/marietta-akumbom?tab=profile)
 
